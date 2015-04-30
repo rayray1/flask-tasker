@@ -1,1 +1,1 @@
-Flask Task Manager
+A Simple Flask Task app
